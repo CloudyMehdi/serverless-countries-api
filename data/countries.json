@@ -492,7 +492,7 @@
         "name_fr" : "Tchad"
     },
     {
-        "alpha2" : "Cl",
+        "alpha2" : "CL",
         "alpha3" : "CHL",
         "bordering_countries" : ["Argentina", "Bolivia", "Peru"],
         "capital" : "Santiago",
@@ -588,9 +588,9 @@
         "demonyms" : ["Ivorian", "Ivory Coasters"],
         "flag" : "🇨🇮",
         "language" : "French",
-        "long_name" : "Republic of Côte d'Ivoire",
-        "name" : "Côte d'Ivoire",
-        "name_fr" : "Côte d'Ivoire"
+        "long_name" : "Republic of Côte D'Ivoire",
+        "name" : "Côte D'Ivoire",
+        "name_fr" : "Côte D'Ivoire"
     },
     {
         "alpha2" : "HR",
@@ -677,7 +677,7 @@
         "flag" : "🇨🇩",
         "language" : "French",
         "name" : "Democratic Republic of the Congo",
-        "name_fr" : "Répyblique Démocratique du Congo"
+        "name_fr" : "République Démocratique du Congo"
     },
     {
         "alpha2" : "DK",
@@ -823,7 +823,7 @@
         "long_name" : "Republic of Estonia",
         "name" : "Estonia",
         "name_ee" : "Eesti",
-        "naùe_fr" : "Estonie"
+        "name_fr" : "Estonie"
     },
     {
         "alpha2" : "SZ",
@@ -1656,6 +1656,19 @@
         "name" : "Mongolia",
         "name_fr" : "Mongolie",
         "name_mn" : "Монгол Улс"
+    },
+    {
+        "alpha2" : "ME",
+        "alpha3" : "MNE",
+        "bordering_countries" : ["Albania", "Bosnia and Herzegovina", "Serbia"],
+        "capital" : "Podgorica",
+        "continent" : "Europe",
+        "currency" : "Euro",
+        "demonym" : "Montenegrin",
+        "flag" : "🇲🇪",
+        "language" : "Montenegrin",
+        "name" : "Montenegro",
+        "name_fr" : "Monténégro"
     },
     {
         "alpha2" : "MA",
@@ -2766,7 +2779,7 @@
     {
         "alpha2" : "VN",
         "alpha3" : "VNM",
-        "bordering_countries" : ["Cambodia", "China", "Laos"],
+        "bordering_countries" : ["Cambodia", "China", "Lao People's Democratic Republic"],
         "capital" : "Hanoi",
         "continent" : "Asia",
         "currency" : "Vietnamese đồng",
